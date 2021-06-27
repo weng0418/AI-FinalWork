@@ -6,7 +6,7 @@
 ## 參考資料:
 * [python人機對戰_【人機對戰】用python打造經典井字遊戲](https://blog.csdn.net/weixin_39990250/article/details/111419831)
 * [【Python AI】- AI 下棋訓練](https://www.youtube.com/watch?v=ESyTr-Ol-nY)
-
+* [井字棋](https://zh.wikipedia.org/wiki/%E4%BA%95%E5%AD%97%E6%A3%8B)
 ## 程式碼:[AI.py](https://github.com/weng0418/AI-FinalWork/blob/main/AI.py)
 
 ## 井字遊戲的基本邏輯
