@@ -7,6 +7,8 @@
 * [python人機對戰_【人機對戰】用python打造經典井字遊戲](https://blog.csdn.net/weixin_39990250/article/details/111419831)
 * [【Python AI】- AI 下棋訓練](https://www.youtube.com/watch?v=ESyTr-Ol-nY)
 
+## 程式碼:[AI.py](https://github.com/weng0418/AI-FinalWork/blob/main/AI.py)
+
 ## 井字遊戲的基本邏輯
 * (1)將程式邏輯拆成三個部分:知道一個盤面可以走的棋步有哪些(這個遊戲很單純，空格都可走)
 * (2)電腦ai下棋的邏輯
