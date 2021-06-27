@@ -1,7 +1,8 @@
 # 人工智慧期末作業
 # 井字遊戲
 ## 聲明
-* [採用創作共用 CC:BY-SA 授權！](https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC)
+* 部分說明內容擷取自維基百科 
+[採用創作共用 CC:BY-SA 授權！](https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC)
 ## 參考資料:
 * [python人機對戰_【人機對戰】用python打造經典井字遊戲](https://blog.csdn.net/weixin_39990250/article/details/111419831)
 * [【Python AI】- AI 下棋訓練](https://www.youtube.com/watch?v=ESyTr-Ol-nY)
